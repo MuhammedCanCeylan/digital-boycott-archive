@@ -1,0 +1,106 @@
+<html lang="tr">
+<head>
+	<meta charset="UTF-8">
+	<title>cerezos.com.tr  - Hata!</title>
+
+
+	
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+	
+	<!-- Bootstrap -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css2?family=Bangers&family=Luckiest+Guy&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" referrerpolicy="no-referrer" />
+
+	<!-- Site CSS -->
+	<link rel="stylesheet" href="/assets/css/gvn-style.css" />
+
+	
+
+	<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+	<link rel="apple-touch-icon" sizes="180x180" href="/assets/media/favicon//apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/assets/media/favicon//favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/assets/media/favicon//favicon-16x16.png">
+	<link rel="manifest" href="/assets/media/favicon//site.webmanifest">
+	<link rel="mask-icon" href="/assets/media/favicon//safari-pinned-tab.svg" color="#5bbad5">
+
+
+</head>
+<body class="gvn-body">
+
+<!-- HEADER -->
+<header class="gvn-header">
+	<div class="gvn-header-inner">
+		<div class="gvn-header-logo">
+			<img src="/assets/img/Cerezos-Logo.png" alt="Çerezos Logo" class="gvn-logo" />
+		</div>
+
+		<nav class="gvn-nav">
+			<a href="#home">ANA SAYFA</a>
+			<a href="https://www.dogusyiyecekicecek.com.tr/login_up.php?success_redirect_url=%2F" target="_blank">KURUMSAL</a>
+			<a href="#products">ÜRÜNLER</a>
+			<a href="https://www.sanslipaket.com/" target="_blank">KAMPANYALAR</a>
+			<a href="#contact">İLETİŞİM</a>
+		</nav>
+
+		<div class="gvn-header-right">
+			<a href="https://www.facebook.com/CipsCerezos" target="_blank" class="gvn-social" aria-label="Facebook"><i class="fa-brands fa-facebook"></i></a>
+			<a href="https://www.instagram.com/cerezostr/" target="_blank" class="gvn-social" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
+			<button class="gvn-menu-toggle" aria-label="Menü"><i class="fa-solid fa-bars"></i></button>
+		</div>
+	</div>
+</header>
+<!-- END HEADER -->
+<!-- CONTENT -->
+<main class="gvn-main">
+<div class="text-center p-t-20 p-b-20">
+    <h1 class="text-danger">Error. 404</h1>
+    <h2 class="text-danger">Bir hata oluştu.</h2>
+    <h2 class="text-danger">Aradığınız sayfa bulunamadı.</h2>
+</div>
+</main>
+<!-- END CONTENT -->
+<!-- FOOTER -->
+<footer class="gvn-footer gvn-anim-bottom">
+	<div class="gvn-footer-links">
+		<a href="#contact">✔ İLETİŞİM</a>
+		<a href="#">✔ GİZLİLİK POLİTİKASI</a>
+		<a href="#">✔ KULLANIM KOŞULLARI</a>
+	</div>
+	<div class="gvn-copy-right-section row" style="align-items: center; justify-content: center;">
+		<div class="gvn-footer-brand col-md-6">
+			<img src="/assets/img/doguscay.png" alt="Doğuş Çay" />
+			<span>Doğuş Çay</span>
+		</div>
+		<div class="col-md-6" style="font-weight: bold; align-items: center; justify-content: center;">
+			<p style="margin: auto; padding: 0;">Copyright © 2025 Çerezos</p>
+		</div>
+	</div>
+</footer>
+
+<!-- END FOOTER -->
+<!-- ScrollToTop -->
+<button id="gvn-scroll-top" class="gvn-scroll-top" aria-label="Yukarı">
+	<i class="fa-solid fa-arrow-up"></i>
+</button>
+<!-- END ScrollToTop -->
+
+<!-- SCRIPTS -->
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/js/gvn-script.js?v1"></script>
+
+
+
+
+
+
+
+</body>
+</html>
